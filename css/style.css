@@ -195,9 +195,60 @@ main {
 
 
 
+/* A summary of My Resume  */
 
+.resume-title{
+    color: #181818;
+    font-weight: 700;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 110px;
+}
 
+.resume-section{
+    display: flex;
+    gap: 37px;
+}
 
+.resume-details > h2{
+    color: #474747;
+    font-size: 35px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.details h2{
+    color: #474747;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+
+}
+.details h3{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 3px;
+
+}
+.details p{
+    color: #757575;
+    margin-top: 10px;
+    padding-right: 100px;
+    margin-bottom: 20px;
+
+}
+
+.resume-underline{
+    color: #1900ff;
+    
+    overflow: visible;
+}
+
+.resume-button{
+    text-align: center;
+    margin-top: 50px;
+}
 
 
 
