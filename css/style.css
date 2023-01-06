@@ -52,8 +52,13 @@ nav li {
 
 /* banner style */
 
+.mary-hardy-img{
+    height: 80.8vh;
+    width: 50%;
+}
+
 .banner {
-    margin: 50px 50px 50px 200px;
+    margin: 50px 30px 50px 200px;
     display: flex;
     align-items: center;
 }
@@ -134,7 +139,6 @@ main {
     font-weight: 700;
 
 }
-    
 
 
 
@@ -150,3 +154,24 @@ main {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+ background-color: #9c5d31;
+ text-align: center;
+ height: 100px;
+ max-width: 1140px;
+ margin: 0 auto;
+ margin-top: 100px;
+}
